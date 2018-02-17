@@ -16,3 +16,11 @@ function nowServing(katzDeli) {
     return (`Currently serving ${shifted}.`);
   }
 }
+
+function currentLine(katzDeli) {
+  if (katzDeli.length === 0) {
+    return (`The line is currently empty.`);
+  } 
+  else {
+    
+}
