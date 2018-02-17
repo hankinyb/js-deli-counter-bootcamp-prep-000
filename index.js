@@ -22,7 +22,8 @@ function currentLine(katzDeli) {
     return (`The line is currently empty.`);
   } 
   else {
+    var line = [];
     for (let i = 0; i < katzDeli.length; i++) {
-    katzDeli.push([i+1]+". " + katzDeli[i]);
+    line.push([i+1]+". " + katzDeli[i]);
   }}
 }
