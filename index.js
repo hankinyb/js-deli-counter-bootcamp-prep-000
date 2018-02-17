@@ -1,5 +1,6 @@
 function takeANumber(otherDeli, newPerson) {
-  otherDeli.push(newPerson)
+  otherDeli.push(newPerson);
+  katzDeli.push(newPerson);
   
-  return otherDeli;
+  return 
 }
