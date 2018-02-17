@@ -1,7 +1,6 @@
-function takeANumber(otherDeli, newPerson) {
-  otherDeli.push(newPerson);
+function takeANumber(line, newPerson) {
   var katzDeli = [];
-  katzDeli.push(newPerson);
+  katzDeli = line.push(newPerson);
   
-  return 
+  return katzDeli
 }
