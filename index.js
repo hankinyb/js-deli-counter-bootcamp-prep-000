@@ -8,5 +8,5 @@ function takeANumber(katzDeli, newPerson) {
 }
 
 function nowServing(katzDeli) {
-  return 
+  if return 
 }
