@@ -2,7 +2,7 @@ function takeANumber(line, newPerson) {
   var katzDeli = [];
   katzDeli = line.push(newPerson);
   var i;
-  do (i = 1; i < katzDeli.length; i++) {
+  for (i = 0; i < katzDeli.length; i++) {
     
   }
   
