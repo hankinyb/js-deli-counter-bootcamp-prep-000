@@ -15,4 +15,5 @@ function nowServing(katzDeli) {
     return (`Currently serving ${katzDeli[0]}.`);
   }
   katzDeli = katzDeli.shift;
+  return katzDeli;
 }
