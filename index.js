@@ -22,5 +22,5 @@ function currentLine(katzDeli) {
     return (`The line is currently empty.`);
   } 
   else {
-    
+    for (i = 0; i < cars.length; i++) {
 }
