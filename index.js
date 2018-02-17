@@ -1,3 +1,3 @@
 function takeANumber(otherDeli, newPerson) {
-  for ()
+  for (i = 0, )
 }
