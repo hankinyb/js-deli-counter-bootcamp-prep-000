@@ -1,3 +1,3 @@
-function takeANumber(otherDeli, ) {
-  
+function takeANumber(otherDeli, newPerson) {
+  return "Welcome "
 }
